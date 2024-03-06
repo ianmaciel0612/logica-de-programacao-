@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oi amor</title>
+
+    <style>
+        body{
+            background-color: fuchsia;
+            font-family: Arial, Helvetica, sans-serif
+        }
+
+        h1{
+            font-size: 50px
+        }
+
+        .final{
+            font-size: 50px
+        }
+
+        p{
+            color: white;
+            font-size: 30px;
+            font-style: italic;
+        }
+        h2{
+            font-size: 40px;
+        }
+    </style>
+
+
+</head>
+<body>
+    <h1>ALGUNS DOS MOTIVOS DE EU AMAR MIMHA NAMORADA</h1>
+
+    <h2>motivo 1:</h2>
+    <p>o sorriso dela: simplesmente o sorriso mais lindo de todos, incomparavel e inigualavelmente lindo.</p>
+    
+    <h2>motivo 2:</h2>
+    <p>o jeito de princesa sapeca q ela tem: amo esse jeitinho dela todo meigo e sereno. Sinto que escolhi a mãe certa para meus filhos</p>
+
+    <h2>motivo 3</h2>
+    <p>Ela é limda pra kralho: é muito massa ficar olhando ela e admirando a beleza ezorbitante dessa deusa super linda e maravilhosa</p>
+
+    <h2>motivo 4</h2>
+    <p>o bom gosto dela: é simplesmente indiscutivel o bom gosto que essa mulher tem pra TUDO, serio, pra qualquer coisa e olha que eu sou bem nojentinho mas tudo que essa mulher gosta eu também gosto então ela tem bom gosto sim (bom gosto para amizades femininas, parabéns você tm boas amigas)</p>
+
+    <h2>motivo 5</h2>
+    <p>a voz da minha gathusca: simmm, a voz dela é maravilhosa, dava pra cantora mas tudo ela acha que é ruim. inclusive...que gemido gostoso JSAKDJKAJDKAJDKAJ</p>
+
+    <h2>motivo 6</h2>
+    <p>o cabelo dela: super lindo todos dias, o cabelo mais bonito do mundo todo e o mais cheiroso também porque eu nunca vi minha mulher com o cabelo feio ou fedido. INCRIVEL</p>
+
+    <h2>motivo 7</h2>
+    <p>o melhor beijo: meodeus que beijo maravilhoso. vou nem falar muito pq se não a coisa fica dura ;)</p>
+
+    <h2>motivo 8</h2>
+    <p>coomprensão: que mulher coomprensiva da peste, amo ela mdssss</p>
+
+    <h3 class="final">ENFIM, EU TE AMO MUITO CABEÇUDA</h3>
+
+</body>
+</html>
